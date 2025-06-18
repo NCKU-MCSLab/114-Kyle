@@ -1,7 +1,7 @@
 # 114-Kyle
 114-林耕澤 CSI dataset
 
-##Feature Description
+## Feature Description:
 
 ### Columns 0–47:
 Amplitude values of the 48 subcarriers, with all PILOT, NULL, and LEGACY NULL subcarriers already removed. These represent the cleaned Channel State Information (CSI) amplitude features for each packet.
