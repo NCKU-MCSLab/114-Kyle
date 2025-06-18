@@ -17,3 +17,6 @@ The reference point (RP) index, indicating the physical location label for each 
 CSI and RSSI were collected separately (not simultaneously), simulating an environment with multiple APs and a dedicated CSI sniffer device.
 
 The dataset emulates realistic deployment conditions, where the CSI sniffer captures channel information while RSSI is measured from broadcasted signals of multiple APs.
+
+![image](https://github.com/user-attachments/assets/8c4e1ca1-e199-4cbb-9677-6e2935ea2c54)
+![image](https://github.com/user-attachments/assets/8b29fb59-a8ed-47b4-a299-5dbb4bb68058)
