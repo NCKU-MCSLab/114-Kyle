@@ -24,3 +24,6 @@ The dataset emulates realistic deployment conditions, where the CSI sniffer capt
 
 ##  Code:
 https://github.com/kuku000/csi_tool/tree/linux-version
+
+## Data Collection Turtorial:
+https://hackmd.io/@kyle90113/RaspCSI
